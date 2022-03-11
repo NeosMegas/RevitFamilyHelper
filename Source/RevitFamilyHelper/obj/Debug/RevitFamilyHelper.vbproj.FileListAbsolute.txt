@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\RevitFamilyHelper\AddIn\RevitFamilyHelper.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\RevitFamilyHelper\AddIn\RevitFamilyHelper.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\RevitFamilyHelper\Source\RevitFamilyHelper\obj\Debug\RevitFamilyHelper.vbprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\RevitFamilyHelper\Source\RevitFamilyHelper\obj\Debug\RevitFamilyHelper.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\RevitFamilyHelper\Source\RevitFamilyHelper\obj\Debug\RevitFamilyHelper.pdb
